@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <!-- Folha verde superior -->
+  <polygon points="40,60 140,85 70,110" fill="#4CAF50"/>
+  
+  <!-- Folha azul média -->
+  <polygon points="30,95 120,120 60,145" fill="#1976D2"/>
+  
+  <!-- Folha azul escura inferior -->
+  <polygon points="20,130 100,155 50,180" fill="#0D47A1"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="250" viewBox="0 0 700 250">
+  <!-- Ícone folhas -->
+  <polygon points="40,60 140,85 70,110" fill="#4CAF50"/>
+  <polygon points="30,95 120,120 60,145" fill="#1976D2"/>
+  <polygon points="20,130 100,155 50,180" fill="#0D47A1"/>
+  
+  <!-- Texto CALU -->
+  <text x="200" y="150" font-family="Montserrat, Arial, sans-serif" font-size="120" font-weight="bold" fill="#222">
+    CALU
+  </text>
+</svg>
